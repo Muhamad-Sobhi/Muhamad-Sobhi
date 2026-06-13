@@ -30,7 +30,7 @@ I'm currently expanding into **mobile development** with Expo/React Native and e
 - 🎓 CS Student @ Benha University, Egypt
 - 💼 Back-End Developer (Node.js / Express.js)
 - 🌍 Based in Egypt
-- 📫 Reach me at: **aldurma.rafiki@gmail.com**
+- 📫 Reach me at: **muhmmed.sobhi@gmail.com**
 
 ---
 
@@ -158,10 +158,10 @@ _Numerical methods and scientific computing toolkit in R._
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-sobhi-27b3992b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-sobhi-2b06ba371/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhamad-Sobhi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555858119483)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldurma.rafiki@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61578888763863)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhmmed.sobhi@gmail.com)
 
 </p>
 
