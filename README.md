@@ -231,7 +231,7 @@ File sharing server built with JavaScript.
 <!--        CURRENTLY LEARNING     -->
 <!-- ============================= -->
 
-## 🌱 Currently Learning & Exploring
+## 🌿 Currently Learning & Exploring
 
 <details>
 <summary><strong>☁️ Cloud & DevOps</strong></summary>
