@@ -236,34 +236,34 @@ File sharing server built with JavaScript.
 <details>
 <summary><strong>☁️ Cloud & DevOps</strong></summary>
 <p align="center">
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![CI/CD](https://img.shields.io/badge/CI%2FCD-00d9ff?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/Muhamad-Sobhi)
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-00d9ff?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 </details>
 
 <details>
 <summary><strong>📱 Mobile Development</strong></summary>
 <p align="center">
-  [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Muhamad-Sobhi)
-  [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![Expo Router](https://img.shields.io/badge/Expo%20Router-000020?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![NativeWind](https://img.shields.io/badge/NativeWind-151515?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/Muhamad-Sobhi)
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo%20Router-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/NativeWind-151515?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 </details>
 
 <details>
 <summary><strong>⚠️ System Design</strong></summary>
 <p align="center">
-  [![Microservices](https://img.shields.io/badge/Microservices-00d9ff?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Message Queues](https://img.shields.io/badge/Message%20Queues-ff6b6b?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Caching](https://img.shields.io/badge/Caching-ffd93d?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Load Balancing](https://img.shields.io/badge/Load%20Balancing-00ff88?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Event-Driven](https://img.shields.io/badge/Event-Driven-a855f7?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
+  <img src="https://img.shields.io/badge/Microservices-00d9ff?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Message%20Queues-ff6b6b?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Caching-ffd93d?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Load%20Balancing-00ff88?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Event-Driven-a855f7?style=for-the-badge&logo=none" />
 </p>
 </details>
 
@@ -273,10 +273,10 @@ File sharing server built with JavaScript.
   <img src="https://skillicons.dev/icons?i=redis,mysql,postgresql&theme=light" width="300" />
 </p>
 <p align="center">
-  [![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/Muhamad-Sobhi)
-  [![Optimization](https://img.shields.io/badge/Optimization-00d9ff?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Replication](https://img.shields.io/badge/Replication-ff6b6b?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
-  [![Sharding](https://img.shields.io/badge/Sharding-ffd93d?style=for-the-badge&logo=none)](https://github.com/Muhamad-Sobhi)
+  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization-00d9ff?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Replication-ff6b6b?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Sharding-ffd93d?style=for-the-badge&logo=none" />
 </p>
 </details>
 
