@@ -88,75 +88,95 @@ Outside of code, I love deep-diving into **Linux**, **networking**, and **automa
 
 <p align="center">
 
-### 📚 [Book Store API](https://github.com/Muhamad-Sobhi/Book_store-API)
+### 🔧 [taqnia-crew-track](https://github.com/Muhamad-Sobhi/taqnia-crew-track)
 
-RESTful API for bookstore management with full CRUD, JWT auth & clean architecture.
+Crew tracking system built with TypeScript.
 
-`Node.js` `Express` `MongoDB` `JWT` `Joi`
+`TypeScript` `Private`
 
-[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/Book_store-API?style=social)](https://github.com/Muhamad-Sobhi/Book_store-API) &nbsp; [![Forks](https://img.shields.io/github/forks/Muhamad-Sobhi/Book_store-API?style=social)](https://github.com/Muhamad-Sobhi/Book_store-API)
-
----
-
-### 💼 [Jobs API](https://github.com/Muhamad-Sobhi/JOBS-API)
-
-Secure job listings API with authentication, filtering & protected routes.
-
-`Node.js` `Express` `MongoDB` `JWT` `Bcrypt`
-
-[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/JOBS-API?style=social)](https://github.com/Muhamad-Sobhi/JOBS-API) &nbsp; [![Forks](https://img.shields.io/github/forks/Muhamad-Sobhi/JOBS-API?style=social)](https://github.com/Muhamad-Sobhi/JOBS-API)
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/taqnia-crew-track?style=social)](https://github.com/Muhamad-Sobhi/taqnia-crew-track)
 
 ---
 
-### 🕌 [Halaqa](https://github.com/Muhamad-Sobhi/Halaqa)
+### 📊 [R_One_Dashboard](https://github.com/Muhamad-Sobhi/R_One_Dashboard)
 
-Mobile app for Islamic study circles — cross-platform with Expo & TypeScript.
+Dashboard application built with TypeScript.
 
-`React Native` `Expo` `TypeScript` `Expo Router`
+`TypeScript` `Public`
 
-[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/Halaqa?style=social)](https://github.com/Muhamad-Sobhi/Halaqa) &nbsp; [![Forks](https://img.shields.io/github/forks/Muhamad-Sobhi/Halaqa?style=social)](https://github.com/Muhamad-Sobhi/Halaqa)
-
----
-
-### 🌐 [Own Website](https://github.com/Muhamad-Sobhi/own-website)
-
-Personal portfolio — clean, responsive, lightweight.
-
-`HTML` `CSS` `JavaScript` `Vercel`
-
-[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/own-website?style=social)](https://github.com/Muhamad-Sobhi/own-website) &nbsp; [![Forks](https://img.shields.io/github/forks/Muhamad-Sobhi/own-website?style=social)](https://github.com/Muhamad-Sobhi/own-website)
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/R_One_Dashboard?style=social)](https://github.com/Muhamad-Sobhi/R_One_Dashboard)
 
 ---
 
-### 🔬 [Scientific Computation](https://github.com/Muhamad-Sobhi/Scientific_Computation)
+### 🌐 [R_one_website](https://github.com/Muhamad-Sobhi/R_one_website)
 
-Numerical methods toolkit: Monte Carlo, Simpson's, Trapezoidal in R.
+Personal website built with TypeScript.
 
-`R` `Numerical Analysis` `ggplot2`
+`TypeScript` `Public`
 
-[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/Scientific_Computation?style=social)](https://github.com/Muhamad-Sobhi/Scientific_Computation) &nbsp; [![Forks](https://img.shields.io/github/forks/Muhamad-Sobhi/Scientific_Computation?style=social)](https://github.com/Muhamad-Sobhi/Scientific_Computation)
-
-</p>
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/R_one_website?style=social)](https://github.com/Muhamad-Sobhi/R_one_website)
 
 ---
 
-<!-- ============================= -->
-<!--          WIP PROJECTS         -->
-<!-- ============================= -->
+### 📋 [waqt-Dashboard](https://github.com/Muhamad-Sobhi/waqt-Dashboard)
 
-## 🚧 Work in Progress
+Dashboard application built with TypeScript.
 
-### 🎓 University Project Hub
+`TypeScript` `Public`
+
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/waqt-Dashboard?style=social)](https://github.com/Muhamad-Sobhi/waqt-Dashboard)
+
+---
+
+### 🎨 [waqt-frontend](https://github.com/Muhamad-Sobhi/waqt-frontend)
+
+Frontend application built with TypeScript.
+
+`TypeScript` `Public`
+
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/waqt-frontend?style=social)](https://github.com/Muhamad-Sobhi/waqt-frontend)
+
+---
+
+### 🦀 [servo](https://github.com/Muhamad-Sobhi/servo)
+
+Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+
+`Rust` `Public` `Mozilla Public License 2.0`
+
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/servo?style=social)](https://github.com/Muhamad-Sobhi/servo)
+
+---
+
+### 🎓 [University_project_hub](https://github.com/Muhamad-Sobhi/University_project_hub)
 
 Platform for students to submit, showcase & discover university projects.
 
-`PHP` `Laravel` `MySQL` `Tailwind` • 🔨 **40%** Complete
+`PHP` `Public`
 
-Features:
-- Project submission & tagging system
-- Team collaboration tools
-- Academic portfolio builder
-- Project discovery & search
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/University_project_hub?style=social)](https://github.com/Muhamad-Sobhi/University_project_hub)
+
+---
+
+### 📦 [Container_Fiter](https://github.com/Muhamad-Sobhi/Container_Fiter)
+
+Container filtering tool built with Python.
+
+`Python` `Public`
+
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/Container_Fiter?style=social)](https://github.com/Muhamad-Sobhi/Container_Fiter)
+
+---
+
+### 🤝 [Sharing_server](https://github.com/Muhamad-Sobhi/Sharing_server)
+
+File sharing server built with JavaScript.
+
+`JavaScript` `Public` `MIT License`
+
+[![Stars](https://img.shields.io/github/stars/Muhamad-Sobhi/Sharing_server?style=social)](https://github.com/Muhamad-Sobhi/Sharing_server)
+
+</p>
 
 ---
 
