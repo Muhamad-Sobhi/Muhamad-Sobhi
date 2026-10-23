@@ -244,7 +244,7 @@ File sharing server built with JavaScript.
 </details>
 
 <details>
-<summary><strong>🏗️ System Design</strong></summary>
+<summary><strong>⚠️ System Design</strong></summary>
 <p>`Microservices` `Message Queues` `Caching` `Load Balancing` `Event-Driven`</p>
 </details>
 
