@@ -167,7 +167,7 @@ Features:
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhamad-Sobhi/Muhamad-Sobhi/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" style="border-radius: 12px; max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/Muhamad-Sobhi/Muhamad-Sobhi/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 </p>
 
 > **Note:** Generated via [Platane/snk](https://github.com/Platane/snk) GitHub Action. Runs daily at midnight and on every push to `main`.
